@@ -2,7 +2,9 @@
 
 The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 
-## 20204 Spring (1학기)
+## 2024 
+
+### Spring (1학기)
 
 | School | Class | Site | Repo |
 | ------ | ----- | ---- | ---- |
@@ -15,7 +17,9 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 
 ---
 
-## 2023 Fall (2학기)
+## 2023 
+
+### Fall (2학기)
 
 | School | Class | Site | Repo |
 | ------ | ----- | ---- | ---- |
@@ -26,7 +30,7 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 | JNUE   | Information Society and Software | [정보 사회와 소프트웨어](https://2023-aaronkr.github.io/jnue-iss) | [JNUE-ISS](https://github.com/2023-aaronkr/jnue-iss) |
 | HB     | Advanced C Programming | [고급 C 프로그래밍](https://2023-aaronkr.github.io/hb-c) | [HB-C](https://github.com/2023-aaronkr/hb-c) |
 
-## 2023 Spring (1학기)
+### Spring (1학기)
 
 | School | Class | Site | Repo |
 | ------ | ----- | ---- | ---- |
@@ -46,7 +50,7 @@ These classes were taught during school vacations or as special lectures.
 
 ---
 
-## HS Classes
+## Before 2020
 
 The following classes were taught at GPA High School between 2013-2019.
 
