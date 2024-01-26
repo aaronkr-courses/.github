@@ -6,7 +6,7 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 
 ### Spring (1학기)
 
-| School | Course | Site | Repo |
+| University | Course | Site | Repo |
 | ------ | ------ | ---- | ---- |
 | JNUE*  | Information Society and Software | [정보 사회와 소프트웨어](https://2023-aaronkr.github.io/jnue-iss) | [JNUE-ISS](https://github.com/2023-aaronkr/jnue-iss) |
 | DJU    | Unix System Control and Security | [유닉스 시스템 관제 및 보안](https://aaronkr-courses.github.io/dju-unix) | [DJU-UNIX](https://github.com/aaronkr-courses/dju-unix) |
@@ -21,7 +21,7 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 
 ### Fall (2학기)
 
-| School | Course | Site | Repo |
+| University | Course | Site | Repo |
 | ------ | ------ | ---- | ---- |
 | DJU    | Database Security | [데이터베이스 보안](https://2023-aaronkr.github.io/dju-sql) | [DJU-SQL](https://github.com/2023-aaronkr/dju-sql) |
 | DJU    | Java Web Hacking Security and Practice | [자바 웹 해킹 보안 및 실습](https://2023-aaronkr.github.io/dju-sec) | [DJU-SEC](https://github.com/2023-aaronkr/dju-sec) |
@@ -32,7 +32,7 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 
 ### Spring (1학기)
 
-| School | Course | Site | Repo |
+| University | Course | Site | Repo |
 | ------ | ------ | ---- | ---- |
 | UT     | Web Programming Application (Node.JS) | [웹 프로그래밍 응용](https://ut-nodejs.github.io/) | [UT-NODE](https://github.com/ut-nodejs/ut-nodejs.github.io) | 
 
