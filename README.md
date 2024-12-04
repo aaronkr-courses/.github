@@ -4,6 +4,19 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 
 ## 2024 
 
+### Fall (2학기)
+
+| University | Course | Site |
+| ------ | ------ | ---- | ---- | 
+| JBNU   | Hydrogen Fuel Cells | [수소 연료전지](https://aaronkr-courses.github.io/courses/2024-jbnu-hydrogen/) |
+| JBNU   | Data Structures | [데이터 구조](https://aaronkr-courses.github.io/courses/2024-jbnu-data/) |
+| JBNU   | Semiconductor Processing | [반도체공정](https://aaronkr-courses.github.io/courses/2024-jbnu-chips/) |
+| DJU    | Database Security | [데이터베이스 보안](https://aaronkr-courses.github.io/courses/2024-dju-db/) |
+| DJU    | Java Web Hacking Security and Practice | [자바 웹 해킹 보안 및 실습](https://aaronkr-courses.github.io/courses/2024-dju-web/) |
+| UT*    | Data Science | [데이터 과학](https://aaronkr-courses.github.io/courses/2024-ut-data/) |
+| HB     | Advanced C Programming | [고급 C 프로그래밍](https://aaronkr-courses.github.io/courses/2024-hb-c/) |
+
+
 ### Spring (1학기)
 
 | University | Course | Site | Repo |
