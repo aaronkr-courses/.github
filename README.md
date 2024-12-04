@@ -2,12 +2,26 @@
 
 The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 
+## 2025 (Upcoming) 
+
+### Spring (1학기)
+
+| University | Course | Site |
+| ------ | ------ | ---- |
+| JBNU   | ??? | [???](https://aaronkr-courses.github.io/courses/2025-jbnu-???/) |
+| JNUE*  | Information Society and Software | [정보 사회와 소프트웨어](https://aaronkr-courses.github.io/courses/2025-jnue-iss/) |
+| DJU    | Database Security | [데이터베이스 보안](https://aaronkr-courses.github.io/courses/2025-dju-db/) |
+| DJU    | Secure Coding | [시큐어 코딩](https://aaronkr-courses.github.io/courses/2025-dju-secure/) |
+| UT     | ??? | [???](https://aaronkr-courses.github.io/courses/2025-ut-???/) |
+| HB     | C++ Programming | [C++ 프로그래밍](https://aaronkr-courses.github.io/courses/2025-hb-cpp/) |
+| HB     | C# Programming | [C# 프로그래밍](https://aaronkr-courses.github.io/courses/2025-hb-csharp/) |
+
 ## 2024 
 
 ### Fall (2학기)
 
 | University | Course | Site |
-| ------ | ------ | ---- | ---- | 
+| ------ | ------ | ---- |
 | JBNU   | Hydrogen Fuel Cells | [수소 연료전지](https://aaronkr-courses.github.io/courses/2024-jbnu-hydrogen/) |
 | JBNU   | Data Structures | [데이터 구조](https://aaronkr-courses.github.io/courses/2024-jbnu-data/) |
 | JBNU   | Semiconductor Processing | [반도체공정](https://aaronkr-courses.github.io/courses/2024-jbnu-chips/) |
