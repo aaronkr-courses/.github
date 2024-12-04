@@ -15,6 +15,7 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 | UT     | ? | ??? | [???](https://aaronkr-courses.github.io/courses/2025-ut-???/) |
 | HB     | 3(4) | C++ Programming | [C++ 프로그래밍](https://aaronkr-courses.github.io/courses/2025-hb-cpp/) |
 | HB     | 3(4) | C# Programming | [C# 프로그래밍](https://aaronkr-courses.github.io/courses/2025-hb-csharp/) |
+| **Ttl** | 16(18) | | |
 
 ## 2024 
 
@@ -29,6 +30,7 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 | DJU    | 3(4) | Java Web Hacking Security and Practice | [자바 웹 해킹 보안 및 실습](https://aaronkr-courses.github.io/courses/2024-dju-web/) |
 | UT*    | 2(3)*2 | Data Science | [데이터 과학](https://aaronkr-courses.github.io/courses/2024-ut-data/) |
 | HB     | 3(4) | Advanced C Programming | [고급 C 프로그래밍](https://aaronkr-courses.github.io/courses/2024-hb-c/) |
+| **Ttl** | 22(26) | | |
 
 
 ### Spring (1학기)
@@ -41,6 +43,7 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 | UT*    | 2(3)*2 | Web Programming Application (Node.JS) | [웹 프로그래밍 응용](https://aaronkr-courses.github.io/ut-node) | [UT-NODE](https://github.com/aaronkr-courses/ut-node) |
 | UT     | 3 | Image-based Medical Device Manufacturing | [영상 기반 의료 기기 제조](https://aaronkr-courses.github.io/ut-imd) | [UT-CAD](https://github.com/aaronkr-courses/ut-imd) |
 | HB     | 3(4) | C++ Programming | [C++ 프로그래밍](https://aaronkr-courses.github.io/hb-cpp) | [HB-CPP](https://github.com/aaronkr-courses/hb-cpp) |
+| **Ttl** | 22(25) | | | |
 
 ---
 
@@ -56,12 +59,14 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 | UT*    | 2(3)*2 | Web Programming Foundations | [웹 프로그래밍 기초](https://2023-aaronkr.github.io/ut-web) | [UT-WEB](https://github.com/2023-aaronkr/ut-web) |
 | JNUE   | 2*4 | Information Society and Software | [정보 사회와 소프트웨어](https://2023-aaronkr.github.io/jnue-iss) | [JNUE-ISS](https://github.com/2023-aaronkr/jnue-iss) |
 | HB     | 3(4) | Advanced C Programming | [고급 C 프로그래밍](https://2023-aaronkr.github.io/hb-c) | [HB-C](https://github.com/2023-aaronkr/hb-c) |
+| **Ttl** | 24(28) | | | |
 
 ### Spring (1학기)
 
 | University | Credits | Course | Site | Repo |
 | ------ | ------ | ---- | ---- | ---- |
 | UT*    | 2(3)*2 | Web Programming Application (Node.JS) | [웹 프로그래밍 응용](https://ut-nodejs.github.io/) | [UT-NODE](https://github.com/ut-nodejs/ut-nodejs.github.io) | 
+| **Ttl** | 4(6) | | | |
 
 - * Taught in multiple sections.
 ---
