@@ -6,41 +6,41 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 
 ### Spring (1학기)
 
-| University | Course | Site |
-| ------ | ------ | ---- |
-| JBNU   | ??? | [???](https://aaronkr-courses.github.io/courses/2025-jbnu-???/) |
-| JNUE*  | Information Society and Software | [정보 사회와 소프트웨어](https://aaronkr-courses.github.io/courses/2025-jnue-iss/) |
-| DJU    | Database Security | [데이터베이스 보안](https://aaronkr-courses.github.io/courses/2025-dju-db/) |
-| DJU    | Secure Coding | [시큐어 코딩](https://aaronkr-courses.github.io/courses/2025-dju-secure/) |
-| UT     | ??? | [???](https://aaronkr-courses.github.io/courses/2025-ut-???/) |
-| HB     | C++ Programming | [C++ 프로그래밍](https://aaronkr-courses.github.io/courses/2025-hb-cpp/) |
-| HB     | C# Programming | [C# 프로그래밍](https://aaronkr-courses.github.io/courses/2025-hb-csharp/) |
+| University | Credits | Course | Site |
+| ------ | ------ | ---- | ---- |
+| JBNU   | ? | ??? | [???](https://aaronkr-courses.github.io/courses/2025-jbnu-???/) |
+| JNUE*  | 2*2 | Information Society and Software | [정보 사회와 소프트웨어](https://aaronkr-courses.github.io/courses/2025-jnue-iss/) |
+| DJU    | 3 | Database Security | [데이터베이스 보안](https://aaronkr-courses.github.io/courses/2025-dju-db/) |
+| DJU    | 3? | Secure Coding | [시큐어 코딩](https://aaronkr-courses.github.io/courses/2025-dju-secure/) |
+| UT     | ? | ??? | [???](https://aaronkr-courses.github.io/courses/2025-ut-???/) |
+| HB     | 3(4) | C++ Programming | [C++ 프로그래밍](https://aaronkr-courses.github.io/courses/2025-hb-cpp/) |
+| HB     | 3(4) | C# Programming | [C# 프로그래밍](https://aaronkr-courses.github.io/courses/2025-hb-csharp/) |
 
 ## 2024 
 
 ### Fall (2학기)
 
-| University | Course | Site |
-| ------ | ------ | ---- |
-| JBNU   | Hydrogen Fuel Cells | [수소 연료전지](https://aaronkr-courses.github.io/courses/2024-jbnu-hydrogen/) |
-| JBNU   | Data Structures | [데이터 구조](https://aaronkr-courses.github.io/courses/2024-jbnu-data/) |
-| JBNU   | Semiconductor Processing | [반도체공정](https://aaronkr-courses.github.io/courses/2024-jbnu-chips/) |
-| DJU    | Database Security | [데이터베이스 보안](https://aaronkr-courses.github.io/courses/2024-dju-db/) |
-| DJU    | Java Web Hacking Security and Practice | [자바 웹 해킹 보안 및 실습](https://aaronkr-courses.github.io/courses/2024-dju-web/) |
-| UT*    | Data Science | [데이터 과학](https://aaronkr-courses.github.io/courses/2024-ut-data/) |
-| HB     | Advanced C Programming | [고급 C 프로그래밍](https://aaronkr-courses.github.io/courses/2024-hb-c/) |
+| University | Credits | Course | Site |
+| ------ | ------ | ---- | ---- |
+| JBNU   | 3 | Hydrogen Fuel Cells | [수소 연료전지](https://aaronkr-courses.github.io/courses/2024-jbnu-hydrogen/) |
+| JBNU   | 3 | Data Structures | [데이터 구조](https://aaronkr-courses.github.io/courses/2024-jbnu-data/) |
+| JBNU   | 3 | Semiconductor Processing | [반도체공정](https://aaronkr-courses.github.io/courses/2024-jbnu-chips/) |
+| DJU    | 3 | Database Security | [데이터베이스 보안](https://aaronkr-courses.github.io/courses/2024-dju-db/) |
+| DJU    | 3(4) | Java Web Hacking Security and Practice | [자바 웹 해킹 보안 및 실습](https://aaronkr-courses.github.io/courses/2024-dju-web/) |
+| UT*    | 2(3)*2 | Data Science | [데이터 과학](https://aaronkr-courses.github.io/courses/2024-ut-data/) |
+| HB     | 3(4) | Advanced C Programming | [고급 C 프로그래밍](https://aaronkr-courses.github.io/courses/2024-hb-c/) |
 
 
 ### Spring (1학기)
 
-| University | Course | Site | Repo |
-| ------ | ------ | ---- | ---- |
-| JNUE*  | Information Society and Software | [정보 사회와 소프트웨어](https://2023-aaronkr.github.io/jnue-iss) | [JNUE-ISS](https://github.com/2023-aaronkr/jnue-iss) |
-| DJU    | Unix System Control and Security | [유닉스 시스템 관제 및 보안](https://aaronkr-courses.github.io/dju-unix) | [DJU-UNIX](https://github.com/aaronkr-courses/dju-unix) |
-| DJU    | Java Programming and Practice | [자바 프로그래밍 및 실습](https://aaronkr-courses.github.io/dju-java) | [DJU-JAVA](https://github.com/aaronkr-courses/dju-java) |
-| UT*    | Web Programming Application (Node.JS) | [웹 프로그래밍 응용](https://aaronkr-courses.github.io/ut-node) | [UT-NODE](https://github.com/aaronkr-courses/ut-node) |
-| UT     | Image-based Medical Device Manufacturing | [영상 기반 의료 기기 제조](https://aaronkr-courses.github.io/ut-imd) | [UT-CAD](https://github.com/aaronkr-courses/ut-imd) |
-| HB     | C++ Programming | [C++ 프로그래밍](https://aaronkr-courses.github.io/hb-cpp) | [HB-CPP](https://github.com/aaronkr-courses/hb-cpp) |
+| University | Credits | Course | Site | Repo |
+| ------ | ------ | ---- | ---- | ---- |
+| JNUE*  | 2*3 | Information Society and Software | [정보 사회와 소프트웨어](https://2023-aaronkr.github.io/jnue-iss) | [JNUE-ISS](https://github.com/2023-aaronkr/jnue-iss) |
+| DJU    | 3 | Unix System Control and Security | [유닉스 시스템 관제 및 보안](https://aaronkr-courses.github.io/dju-unix) | [DJU-UNIX](https://github.com/aaronkr-courses/dju-unix) |
+| DJU    | 3(4) | Java Programming and Practice | [자바 프로그래밍 및 실습](https://aaronkr-courses.github.io/dju-java) | [DJU-JAVA](https://github.com/aaronkr-courses/dju-java) |
+| UT*    | 2(3)*2 | Web Programming Application (Node.JS) | [웹 프로그래밍 응용](https://aaronkr-courses.github.io/ut-node) | [UT-NODE](https://github.com/aaronkr-courses/ut-node) |
+| UT     | 3 | Image-based Medical Device Manufacturing | [영상 기반 의료 기기 제조](https://aaronkr-courses.github.io/ut-imd) | [UT-CAD](https://github.com/aaronkr-courses/ut-imd) |
+| HB     | 3(4) | C++ Programming | [C++ 프로그래밍](https://aaronkr-courses.github.io/hb-cpp) | [HB-CPP](https://github.com/aaronkr-courses/hb-cpp) |
 
 ---
 
@@ -48,21 +48,22 @@ The following courses were taught by [Aaron Snowberger](https://aaron.kr).
 
 ### Fall (2학기)
 
-| University | Course | Site | Repo |
-| ------ | ------ | ---- | ---- |
-| DJU    | Database Security | [데이터베이스 보안](https://2023-aaronkr.github.io/dju-sql) | [DJU-SQL](https://github.com/2023-aaronkr/dju-sql) |
-| DJU    | Java Web Hacking Security and Practice | [자바 웹 해킹 보안 및 실습](https://2023-aaronkr.github.io/dju-sec) | [DJU-SEC](https://github.com/2023-aaronkr/dju-sec) |
-| UT     | Computer Aided Medical Image Diagnosis | [의료 영상 진단 CAD](https://2023-aaronkr.github.io/ut-cad) | [UT-CAD](https://github.com/2023-aaronkr/ut-cad) |
-| UT     | Web Programming Foundations | [웹 프로그래밍 기초](https://2023-aaronkr.github.io/ut-web) | [UT-WEB](https://github.com/2023-aaronkr/ut-web) |
-| JNUE   | Information Society and Software | [정보 사회와 소프트웨어](https://2023-aaronkr.github.io/jnue-iss) | [JNUE-ISS](https://github.com/2023-aaronkr/jnue-iss) |
-| HB     | Advanced C Programming | [고급 C 프로그래밍](https://2023-aaronkr.github.io/hb-c) | [HB-C](https://github.com/2023-aaronkr/hb-c) |
+| University | Credits | Course | Site | Repo |
+| ------ | ------ | ---- | ---- | ---- |
+| DJU    | 3 | Database Security | [데이터베이스 보안](https://2023-aaronkr.github.io/dju-sql) | [DJU-SQL](https://github.com/2023-aaronkr/dju-sql) |
+| DJU    | 3(4) | Java Web Hacking Security and Practice | [자바 웹 해킹 보안 및 실습](https://2023-aaronkr.github.io/dju-sec) | [DJU-SEC](https://github.com/2023-aaronkr/dju-sec) |
+| UT     | 3 | Computer Aided Medical Image Diagnosis | [의료 영상 진단 CAD](https://2023-aaronkr.github.io/ut-cad) | [UT-CAD](https://github.com/2023-aaronkr/ut-cad) |
+| UT*    | 2(3)*2 | Web Programming Foundations | [웹 프로그래밍 기초](https://2023-aaronkr.github.io/ut-web) | [UT-WEB](https://github.com/2023-aaronkr/ut-web) |
+| JNUE   | 2*4 | Information Society and Software | [정보 사회와 소프트웨어](https://2023-aaronkr.github.io/jnue-iss) | [JNUE-ISS](https://github.com/2023-aaronkr/jnue-iss) |
+| HB     | 3(4) | Advanced C Programming | [고급 C 프로그래밍](https://2023-aaronkr.github.io/hb-c) | [HB-C](https://github.com/2023-aaronkr/hb-c) |
 
 ### Spring (1학기)
 
-| University | Course | Site | Repo |
-| ------ | ------ | ---- | ---- |
-| UT     | Web Programming Application (Node.JS) | [웹 프로그래밍 응용](https://ut-nodejs.github.io/) | [UT-NODE](https://github.com/ut-nodejs/ut-nodejs.github.io) | 
+| University | Credits | Course | Site | Repo |
+| ------ | ------ | ---- | ---- | ---- |
+| UT*    | 2(3)*2 | Web Programming Application (Node.JS) | [웹 프로그래밍 응용](https://ut-nodejs.github.io/) | [UT-NODE](https://github.com/ut-nodejs/ut-nodejs.github.io) | 
 
+- * Taught in multiple sections.
 ---
 
 ## Special Classes
